@@ -31,3 +31,30 @@ h1 {
 p {
   font-size: 20px;
 }
+.horror {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+}
+
+.horror2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 15px;
+    
+}
+.horror img  {
+   opacity: 0.2;
+   height: 250;
+}
+
+.horror img:hover  {
+opacity: 10.0 ;
+border: 1px solid rgb(255, 255, 255)
+
+}
+.horror2 h2{
+color: rgb(42, 122, 228);
+
+
+}
